@@ -1,6 +1,6 @@
 # Staff Information Management System (XML + SAX Parser)
 
-A memory-efficient Java application that reads and processes employee records from an XML file using the SAX parser. This project demonstrates event-driven XML parsing, structured data extraction, and memory optimization in Java.
+A lightweight, platform-independent system that stores employee records in XML format. Implemented a Java-based SAX parser to efficiently read and display employee data without loading the entire XML file into memory, with proper error handling and structured data extraction.
 
 ## Project Overview
 
